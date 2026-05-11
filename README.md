@@ -75,4 +75,4 @@ For professional-grade **17-4PH (UNS S17400 / AISI 630) forged parts**, includin
 We specialize in high-quality forged components for critical industrial sectors. Our 17-4PH forgings comply with international standards including **ASTM A564, ASTM A705, and AMS 5643**, provided with complete 3.1/3.2 MTC (Material Test Certificates).
 
 ---
-*Maintained by the JNMT Engineering Team.*
+*Maintained by the Jiangsu Liangyi Engineering Team.*
